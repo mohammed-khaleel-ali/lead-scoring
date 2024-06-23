@@ -1,2 +1,2 @@
 # lead-scoring
-Course project lead scoring assignment
+lead scoring case study
